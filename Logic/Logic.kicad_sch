@@ -1408,6 +1408,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 77.47) (xy 118.11 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cc96771-532b-4d09-9ed5-2e1f180cb71c")
+	)
+	(wire
+		(pts
 			(xy 129.54 90.17) (xy 125.73 90.17)
 		)
 		(stroke
@@ -1428,6 +1438,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 63.5) (xy 92.71 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "175a8076-0ea6-4ea8-8db4-6a56f7482f2f")
+	)
+	(wire
+		(pts
 			(xy 113.03 99.06) (xy 113.03 78.74)
 		)
 		(stroke
@@ -1438,6 +1458,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 87.63) (xy 118.11 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aa61295-b9ef-4c79-b32d-5c82dc780470")
+	)
+	(wire
+		(pts
 			(xy 129.54 78.74) (xy 157.48 78.74)
 		)
 		(stroke
@@ -1445,6 +1475,16 @@
 			(type default)
 		)
 		(uuid "20e7d4e4-67ba-453b-86b7-17c7b22abaa9")
+	)
+	(wire
+		(pts
+			(xy 85.09 55.88) (xy 118.11 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21f76320-c30a-4b12-a1e8-2cb68f6bf9c9")
 	)
 	(wire
 		(pts
@@ -1478,16 +1518,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 77.47) (xy 118.11 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d646eb7-cb6b-426f-acb2-e919915c2c32")
-	)
-	(wire
-		(pts
 			(xy 101.6 124.46) (xy 121.92 124.46)
 		)
 		(stroke
@@ -1515,6 +1545,16 @@
 			(type default)
 		)
 		(uuid "36d44da8-9e01-4703-8eb0-096cbccd5ae1")
+	)
+	(wire
+		(pts
+			(xy 92.71 81.28) (xy 85.09 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "381ab86f-0b3a-4b7f-8d2d-cc8e460805da")
 	)
 	(wire
 		(pts
@@ -1565,26 +1605,6 @@
 			(type default)
 		)
 		(uuid "48b40d10-dc97-47cb-b773-d53e43fb8b2a")
-	)
-	(wire
-		(pts
-			(xy 118.11 59.69) (xy 118.11 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48e68728-ffa9-4b5f-8da2-9906f574f516")
-	)
-	(wire
-		(pts
-			(xy 92.71 77.47) (xy 92.71 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d54216a-b9e6-4e22-8260-98e760682996")
 	)
 	(wire
 		(pts
@@ -1708,16 +1728,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 62.23) (xy 113.03 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "918e7803-6bf9-487d-af09-d789c8b030d5")
-	)
-	(wire
-		(pts
 			(xy 129.54 78.74) (xy 129.54 80.01)
 		)
 		(stroke
@@ -1818,16 +1828,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 49.53) (xy 118.11 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b172a4af-eaa2-4a5c-a054-462836c6eefc")
-	)
-	(wire
-		(pts
 			(xy 123.19 96.52) (xy 123.19 114.3)
 		)
 		(stroke
@@ -1865,6 +1865,16 @@
 			(type default)
 		)
 		(uuid "b56f061a-f3ea-458d-8f80-9f964fb2be84")
+	)
+	(wire
+		(pts
+			(xy 92.71 77.47) (xy 92.71 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b663dd7b-56b5-4e37-af70-db1867f84bff")
 	)
 	(wire
 		(pts
@@ -1908,6 +1918,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 81.28) (xy 85.09 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc466744-afc9-4c68-9273-b1d51fd252e7")
+	)
+	(wire
+		(pts
 			(xy 168.91 119.38) (xy 167.64 119.38)
 		)
 		(stroke
@@ -1915,6 +1935,16 @@
 			(type default)
 		)
 		(uuid "cdebf951-a23b-45b6-b45d-ad42f503afbf")
+	)
+	(wire
+		(pts
+			(xy 118.11 55.88) (xy 118.11 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce57f48c-f63f-44db-b91e-a10d2864aaee")
 	)
 	(wire
 		(pts
@@ -1988,16 +2018,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 62.23) (xy 113.03 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eccc8c77-50fe-41e8-8349-f118325fd62f")
-	)
-	(wire
-		(pts
 			(xy 138.43 106.68) (xy 135.89 106.68)
 		)
 		(stroke
@@ -2015,16 +2035,6 @@
 			(type default)
 		)
 		(uuid "f472d6a9-5d42-4451-b1f3-10e5de0becca")
-	)
-	(wire
-		(pts
-			(xy 92.71 64.77) (xy 92.71 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8afe12c-37d7-4b1a-818e-b8b3fec6c55a")
 	)
 	(wire
 		(pts
@@ -2378,7 +2388,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 118.11 55.88 0)
+		(at 118.11 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2387,7 +2397,7 @@
 		(fields_autoplaced yes)
 		(uuid "33e8fb05-0644-4428-9b92-8eb4063e695b")
 		(property "Reference" "R1"
-			(at 120.65 54.6099 0)
+			(at 120.65 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2406,7 @@
 			)
 		)
 		(property "Value" "68"
-			(at 120.65 57.1499 0)
+			(at 120.65 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,7 +2415,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 116.332 55.88 90)
+			(at 116.332 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2414,7 +2424,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 55.88 0)
+			(at 118.11 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,7 +2433,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 118.11 55.88 0)
+			(at 118.11 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2582,7 +2592,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 118.11 49.53 0)
+		(at 92.71 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2591,7 +2601,7 @@
 		(fields_autoplaced yes)
 		(uuid "62ffaf95-701d-4cad-b77f-c1b45c9d885d")
 		(property "Reference" "#PWR014"
-			(at 118.11 53.34 0)
+			(at 92.71 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2600,7 +2610,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 118.11 44.45 0)
+			(at 92.71 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2608,7 +2618,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 49.53 0)
+			(at 92.71 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2617,7 +2627,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 49.53 0)
+			(at 92.71 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,7 +2636,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 118.11 49.53 0)
+			(at 92.71 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3964,7 +3974,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDD")
-		(at 92.71 80.01 0)
+		(at 118.11 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3973,7 +3983,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1396611-8037-42a0-ada1-9984a8e36b94")
 		(property "Reference" "#PWR03"
-			(at 92.71 86.36 0)
+			(at 118.11 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +3992,7 @@
 			)
 		)
 		(property "Value" "GNDD"
-			(at 92.71 83.82 0)
+			(at 118.11 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3990,7 +4000,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 80.01 0)
+			(at 118.11 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3999,7 +4009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 80.01 0)
+			(at 118.11 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4008,7 +4018,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 92.71 80.01 0)
+			(at 118.11 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
