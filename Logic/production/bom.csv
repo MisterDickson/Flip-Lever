@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,Harwin_M20-89004xx_1x04_P2.54mm_Horizontal,1,Conn_01x04_Pin,
+"Q1, Q2",SOT-363_SC-70-6,2,~,
+R1,0603,1,68,
+"R10, R6, R7, R9",0603,4,1k,
+"R11, R5",0603,2,20,
+"R2, R3",0603,2,1k15,
+"R4, R8",0603,2,10k,
+"U1, U2",OPTO-THT-TCST1103,2,~,
