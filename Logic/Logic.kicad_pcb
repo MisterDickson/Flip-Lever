@@ -3934,6 +3934,18 @@
 		(layer "Edge.Cuts")
 		(uuid "55069301-9ac2-47f2-a6f2-4582266af90f")
 	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 148.5 80.85 0)
+		(layer "F.SilkS")
+		(uuid "49d97f25-fb34-43c9-a370-02a0c6c61b5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
 	(dimension
 		(type orthogonal)
 		(layer "F.Fab")
