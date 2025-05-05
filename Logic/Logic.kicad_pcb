@@ -100,8 +100,7 @@
 		(tags "SOT-363 SC-70-6 SC-88")
 		(property "Reference" "Q2"
 			(at 0 -2.25 0)
-			(layer "F.SilkS")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "e6b29e65-867e-4a6b-a1d3-88cb3ee8fd3f")
 			(effects
 				(font
@@ -599,8 +598,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R11"
 			(at 0 -1.43 90)
-			(layer "F.SilkS")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "65939b6a-024a-4a64-a9de-a94f7e07f5d5")
 			(effects
 				(font
@@ -610,12 +608,12 @@
 			)
 		)
 		(property "Value" "20"
-			(at 0 1.43 90)
-			(layer "F.Fab")
+			(at -0.5 -1.5 180)
+			(layer "F.SilkS")
 			(uuid "fd7469a9-58d0-4509-95db-4a9117732fec")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -799,7 +797,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
 			(at 0 -1.43 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "c0b41c45-0ca2-48d0-a759-3e00e7107870")
 			(effects
 				(font
@@ -809,12 +807,12 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 1.43 90)
-			(layer "F.Fab")
+			(at 2.4125 0 0)
+			(layer "F.SilkS")
 			(uuid "b240e37b-aecf-4ec4-a74d-35a557d74867")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -998,8 +996,7 @@
 		(tags "SOT-363 SC-70-6 SC-88")
 		(property "Reference" "Q1"
 			(at 0 -2.25 0)
-			(layer "F.SilkS")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "d3d38d33-528d-477c-8f05-a38df6a2cbf4")
 			(effects
 				(font
@@ -1257,7 +1254,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R7"
 			(at 0 -1.43 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "23fd1ad5-1b4d-4ef3-bf8d-dab0b8ad51cf")
 			(effects
 				(font
@@ -1267,12 +1264,12 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 1.43 0)
-			(layer "F.Fab")
+			(at 0 -1.4125 0)
+			(layer "F.SilkS")
 			(uuid "5d52b997-3c75-4405-adc3-52593d3c0024")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -1456,7 +1453,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R8"
 			(at 0 -1.43 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "9149ac0e-ab0d-4daa-a941-400c2b6cc49d")
 			(effects
 				(font
@@ -1467,11 +1464,11 @@
 		)
 		(property "Value" "10k"
 			(at 0 1.43 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "aa344d6d-c335-49cc-a79f-1762bfb79988")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -1655,7 +1652,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R10"
 			(at 0 -1.43 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "5c992454-c83b-4ec2-9209-a2994f17a36b")
 			(effects
 				(font
@@ -1665,12 +1662,12 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 1.43 90)
-			(layer "F.Fab")
+			(at 2 -0.5 180)
+			(layer "F.SilkS")
 			(uuid "c9a87f2d-449b-48bf-9056-30c59f39b78e")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -1853,8 +1850,8 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R3"
-			(at 0 -1.43 0)
-			(layer "F.SilkS")
+			(at -4.5 1 0)
+			(layer "F.Fab")
 			(uuid "e13f7062-845d-477e-9098-348e3bc6a408")
 			(effects
 				(font
@@ -1864,12 +1861,12 @@
 			)
 		)
 		(property "Value" "1k15"
-			(at 0 1.43 0)
-			(layer "F.Fab")
+			(at -3 0 0)
+			(layer "F.SilkS")
 			(uuid "e4a93df5-a04d-47fe-baf3-d6dd57651fc3")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -2053,7 +2050,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
 			(at 0 -1.43 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "cef35833-319b-4237-9375-a4bc8b1e71ac")
 			(effects
 				(font
@@ -2063,12 +2060,12 @@
 			)
 		)
 		(property "Value" "20"
-			(at 0 1.43 90)
-			(layer "F.Fab")
+			(at -2.4125 -0.5 0)
+			(layer "F.SilkS")
 			(uuid "b4cbb4a1-a52c-48b7-9197-f01f43995fc9")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -2252,7 +2249,7 @@
 		(tags "connector Harwin M20-890 horizontal")
 		(property "Reference" "J1"
 			(at -0.48 -6.28 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "73b9e4e8-f9bb-4e16-a247-716505501ef8")
 			(effects
 				(font
@@ -2898,8 +2895,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R9"
 			(at 0 -1.43 90)
-			(layer "F.SilkS")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "77ca40ba-88d2-4def-83bc-c330d28299ad")
 			(effects
 				(font
@@ -2909,12 +2905,12 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 1.43 90)
-			(layer "F.Fab")
+			(at 0.5 -1.5 180)
+			(layer "F.SilkS")
 			(uuid "7e820012-5bb3-4535-b32a-3eceeaa4f400")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -3098,8 +3094,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
 			(at 0 -1.43 90)
-			(layer "F.SilkS")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "2a9b7da1-7026-439b-a98e-de506a867f10")
 			(effects
 				(font
@@ -3109,12 +3104,12 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 1.43 90)
-			(layer "F.Fab")
+			(at 1.4125 1.1 180)
+			(layer "F.SilkS")
 			(uuid "68ccd23e-1ae5-4641-baca-ba0c98b44cdd")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -3538,8 +3533,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
 			(at 0 -1.43 0)
-			(layer "F.SilkS")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "9f20f9ce-8129-4a27-b25f-14e4640b841d")
 			(effects
 				(font
@@ -3549,12 +3543,12 @@
 			)
 		)
 		(property "Value" "1k15"
-			(at 0 1.43 0)
-			(layer "F.Fab")
+			(at -3 0 0)
+			(layer "F.SilkS")
 			(uuid "4a627ccc-7ffe-4f84-94c9-a1542b4c7fc0")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
@@ -3738,8 +3732,7 @@
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
 			(at 0 -1.43 90)
-			(layer "F.SilkS")
-			(hide yes)
+			(layer "F.Fab")
 			(uuid "84dfba38-67f8-4813-a62c-2895f2116c8e")
 			(effects
 				(font
@@ -3749,12 +3742,12 @@
 			)
 		)
 		(property "Value" "68"
-			(at 0 1.43 90)
-			(layer "F.Fab")
+			(at 2 0.5 180)
+			(layer "F.SilkS")
 			(uuid "5dac0b13-7204-437e-bd0f-032bc6010bf7")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.7 0.7)
 					(thickness 0.15)
 				)
 			)
